@@ -26,3 +26,5 @@ WhatsApp Web
      |
      v
 JSON + Excel Reports
+
+Sample input and generated reports are kept locally to avoid publishing personal WhatsApp/contact data
