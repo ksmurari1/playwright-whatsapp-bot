@@ -6,6 +6,10 @@ A Playwright-based WhatsApp Web automation bot built with Python for personalize
 
 This project automates a controlled WhatsApp Web workflow using Playwright and Python.
 
+## Architecture & Workflow
+
+![WhatsApp Automation Bot Architecture and Workflow](architecture_workflow.png)
+
 ### Core Flow
 
 ```text
